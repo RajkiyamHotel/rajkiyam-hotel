@@ -1,0 +1,21 @@
+'use client'
+// import Image from "next/image";
+
+// import HotelImage from '../../public/images/rec.jpg'
+import ImageCarousel from "@/components/body/ImageCarousel";
+import HotelDetails from "@/components/body/HotelDetails";
+import {image} from "@/components/utils/image";
+import ReviewPage from "@/components/reviews/ReviewPage";
+const Home: React.FC = () => {
+
+  return (
+    <div>
+      {/* <Image alt="hotel" src={HotelImage}/> */}
+      <ImageCarousel images={image} />
+      <HotelDetails />
+      <ReviewPage />
+    </div>
+  );
+};
+
+export default Home;

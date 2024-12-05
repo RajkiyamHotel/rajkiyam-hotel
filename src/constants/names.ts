@@ -1,0 +1,13 @@
+export const RAJKIYAM_HOTEL = 'Rajkiyam - A Business Hotel'
+export const RIGHT_RESERVED = 'All rights reserved.'
+export const MOBILE_NUMBER = '+91-8550890020'
+export const EMAIL = 'rajkiyamhotels@gmail.com'
+export const TOTAL_STAR = 5;
+export const HOTEL_ADDRESS = 'Site No. 5, LDRE Layout, S V Residency, Service Rd, Karthik Nagar, Doddanekundi, Bengaluru, Karnataka 560037'
+export const HOTEL_DESCRIPTION = "Rajkiyam Hotel offers exceptional value and comfort, providing a delightful experience for both business and leisure travelers. With well-appointed rooms, modern amenities, and attentive service, it strikes the perfect balance between affordability and quality. Whether you're here for work or relaxation, Rajkiyam Hotel promises a welcoming atmosphere and a memorable stay with everything you need for a comfortable and enjoyable visit."
+export const GOOGLE_MAP_LINK = "https://maps.app.goo.gl/YtfXHpKc4HrdpHdp8"
+// export const REVIEW_HEADING = "Guest Reviews"
+export const REVIEW_SUBHEADING = "Their Words, Our Pride"
+export const VIEW_GOOGLE = "View on Google Maps"
+export const WHATSAPP_LINK = "https://wa.me/+918550890020"
+export const ADDRESS_HEADING = "Address"
