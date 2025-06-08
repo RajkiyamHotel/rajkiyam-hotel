@@ -33,6 +33,7 @@ const ImageCarousel = ({ images }: { images: string[] }) => {
           className="w-full h-[500px] object-cover"
           height={500}
           width={400}
+          quality={100}
         />
       </div>
       <button
