@@ -16,6 +16,13 @@ export const image1 = [
     "https://ik.imagekit.io/rajkiyam/MainScreen/gali.JPG?updatedAt=1733406088641",
 ]
 
+// export const image1 = [
+//     "https://i.ibb.co/HD6MDHHy/room6.jpg",
+
+// ]
+
+
+//public folder
 export const image = [
     "/images/rec.jpg",
     "/images/room1.jpg",
